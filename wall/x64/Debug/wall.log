@@ -1,0 +1,60 @@
+﻿  growth.cpp
+  board.cpp
+  Drawable.cpp
+C:\C++2024\wall\Growth.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'growth.cpp'을(를) 컴파일하는 중)
+  
+C:\C++2024\wall\board.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+C:\C++2024\wall\Drawable.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'Drawable.cpp'을(를) 컴파일하는 중)
+  
+  empty.cpp
+C:\C++2024\wall\Drawable.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'empty.cpp'을(를) 컴파일하는 중)
+  
+  gate.cpp
+C:\C++2024\wall\Drawable.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'gate.cpp'을(를) 컴파일하는 중)
+  
+  main.cpp
+C:\C++2024\wall\main.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  mission.cpp
+  missionboard.cpp
+C:\C++2024\wall\MissionBoard.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'missionboard.cpp'을(를) 컴파일하는 중)
+  
+  poison.cpp
+C:\C++2024\wall\Poison.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'poison.cpp'을(를) 컴파일하는 중)
+  
+  scoreboard.cpp
+C:\C++2024\wall\Scoreboard.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'scoreboard.cpp'을(를) 컴파일하는 중)
+  
+  scoreboard.h
+C:\C++2024\wall\scoreboard.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  snake.cpp
+C:\C++2024\wall\Snake.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'snake.cpp'을(를) 컴파일하는 중)
+  
+  snakegame.cpp
+C:\C++2024\wall\SnakeGame.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'snakegame.cpp'을(를) 컴파일하는 중)
+  
+  speedup.cpp
+C:\C++2024\wall\Speedup.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'speedup.cpp'을(를) 컴파일하는 중)
+  
+  speeddown.cpp
+C:\C++2024\wall\Speeddown.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'speeddown.cpp'을(를) 컴파일하는 중)
+  
+  time.cpp
+C:\C++2024\wall\time.h(5,10): error C1083: 포함 파일을 열 수 없습니다. 'sys/time.h': No such file or directory
+  (소스 파일 'time.cpp'을(를) 컴파일하는 중)
+  
+  wall.cpp
+C:\C++2024\wall\Drawable.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'ncurses.h': No such file or directory
+  (소스 파일 'wall.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
